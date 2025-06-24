@@ -15,4 +15,4 @@ I'm a self-taught cybersecurity learner with 2.5 years of background in Computer
 
 ## 📫 Connect With Me
 
-- [LinkedIn]([https://linkedin.com/in/YOURUSERNAME](https://www.linkedin.com/in/josefina-colombini-2015612b4/))
+- [LinkedIn]([https://www.linkedin.com/in/josefina-colombini-2015612b4/])
