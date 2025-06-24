@@ -4,7 +4,7 @@ I'm a self-taught cybersecurity learner with 2.5 years of background in Computer
 
 ## 🧠 What I'm Working On
 
-- 🎓 **Google IT Support Certificate** (currently on Module 3)
+- 🎓 **Google IT Support Certificate** (currently on Course 2)
 - 🔐 **TryHackMe** — just finished **Pre-Security** path and continuing with **Cybersecurity 101**
 - 🧪 Building a **home lab** with **Parrot OS**
 
