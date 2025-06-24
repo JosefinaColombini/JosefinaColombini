@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Josefina
 
-<!--
-**JosefinaColombini/JosefinaColombini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught cybersecurity learner with 2.5 years of background in Computer Science. Currently, I'm focused on hands-on learning and building projects as I work toward my future goal: earning the **CompTIA Security+ certification**.
 
-Here are some ideas to get you started:
+## 🧠 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Google IT Support Certificate** (currently on Module 3)
+- 🔐 **TryHackMe** — just finished **Pre-Security** path and continuing with **Cybersecurity 101**
+- 🧪 Building a **home lab** with **Parrot OS**
+
+## 🧰 Future Projects & Labs
+
+- 🛡️ **Basic SOC lab** – Monitoring and detecting attacks (in progress)
+- ⚙️ Linux tools, CLI practice, log analysis, and small scripts as I learn more
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/YOURUSERNAME)
+- [TryHackMe](https://tryhackme.com/p/YOURUSERNAME)
+- [GitHub Repositories](https://github.com/YOURUSERNAME)
