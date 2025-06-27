@@ -6,12 +6,12 @@ I'm a self-taught cybersecurity learner with 2.5 years of background in Computer
 
 - 🎓 **Google IT Support Certificate** (currently on Course 2)
 - 🔐 **TryHackMe** — just finished **Pre-Security** path and continuing with **Cybersecurity 101**
-- 🧪 Building a **home lab** with **Parrot OS**
+- 🧪 Building a **home lab** with **Parrot OS** (I plan to do 1 or 2 projects per course on Google Cert)
 
 ## 🧰 Future Projects & Labs
 
-- 🛡️ **Basic SOC lab** – Monitoring and detecting attacks (in progress)
-- ⚙️ Linux tools, CLI practice, log analysis, and small scripts as I learn more
+- 🛡️ **Basic Home Network Simulation on Cisco Packet Tracer** - Understanding TCP/IP Model
+- ⚙️ **CLI practice** - Linux, Windows, macOS basic commands
 
 ## 📫 Connect With Me
 
