@@ -11,7 +11,6 @@ I'm a self-taught cybersecurity learner with 2.5 years of background in Computer
 ## 🧰 Future Projects & Labs
 
 - 🛡️ **Basic Home Network Simulation on Cisco Packet Tracer** - Understanding TCP/IP Model
-- ⚙️ **CLI practice** - Linux, Windows, macOS basic commands
 
 ## 📫 Connect With Me
 
