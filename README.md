@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Josefina
 
-I'm a self-taught cybersecurity learner with 2.5 years of background in Computer Science. Currently, I'm focused on hands-on learning and building projects as I work toward my future goal: earning the **CompTIA Security+ certification**.
+I'm a self-taught cybersecurity learner with 2.5 years of background in Computer Science. Currently, I'm focused on hands-on learning and building projects as I work toward my future goal: earning the **CompTIA Security+ certification** while working as a Jr System Analyst.
 
 ## 🧠 What I'm Working On
 
