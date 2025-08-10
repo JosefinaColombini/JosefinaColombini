@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Josefina
 
-I'm a self-taught cybersecurity learner with 2.5 years of background in Computer Science. Currently, I'm focused on hands-on learning and building projects as I work toward my future goal: earning the **CompTIA Security+ certification** while working as a Jr System Analyst.
+I’m a junior sysadmin with 2.5 years of background in Computer Science school. Currently, I'm working at a retail store designing and deploying secure server environments.
 
-## 🧠 What I'm Working On
+## 📚Certs
+- Google IT Support Professional Certificate
+- CompTIA Linux+ (in progress)
 
-- 🎓 **Google IT Support Certificate** (currently on Course 2)
-- 🔐 **TryHackMe** — just finished **Pre-Security** path and continuing with **Cybersecurity 101**
-- 🧪 Building a **home lab** with **Parrot OS** (I plan to do 1 or 2 projects per course on Google Cert)
-
-## 🧰 Future Projects & Labs
-
-- 🛡️ **Basic Home Network Simulation on Cisco Packet Tracer** - Understanding TCP/IP Model
+## ⚙️What I've been working on (in process of being documented)
+- VPS provisioning & hardening
+- Secure remote access with WireGuard VPN
+- Automation scripting for backups & file transfers
 
 ## 📫 Connect With Me
 
