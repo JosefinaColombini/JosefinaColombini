@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Josefina
 
-I’m a junior sysadmin with 2.5 years of background in Computer Science school. Currently, I'm working at a retail store designing and deploying secure server environments.
+I’m a junior sysadmin/developer with 2.5 years of Computer Science studies and 6 months of professional experience. I currently work as a freelancer setting up secure server environments and as a full-stack developer for small companies that need tailored, practical solutions.
 
-## ⚙️What I've been working on (in process of being documented)
-- **VPS provisioning & hardening** - deployed Linux servers from scratch, configured firewalls, VPN access, and Docker to run multiple services.
-- **Automation for Retail** – built a Streamlit app to automate price updates between point-of-sale scales, reducing manual work.
+## ⚙️ What I’ve been working on
 
-## 📚Certs
-- Google IT Support Professional Certificate
-- RHCSA (in progress)
+* **VPS provisioning & hardening** – Deploying Linux servers from scratch, configuring firewalls, VPN access, SSH, and Docker to securely run multiple services.
+* **Automation for retail** – Building a Streamlit app to automate price updates between point-of-sale scales and product lists, significantly reducing repetitive manual work.
+* **IT Support** – Part-time IT Support and Junior SysAdmin for Nuve Partners, handling troubleshooting, user support, and day-to-day infrastructure tasks.
+* **Deploying web apps** – Assisting with the deployment and maintenance of internal web applications for Nuve Partners and other small companies.
 
-## 📫 Connect With Me
+## 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/josefina-colombini-2015612b4/)
+* [LinkedIn](https://www.linkedin.com/in/josefina-colombini-2015612b4/)
