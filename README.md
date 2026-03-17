@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Josefina
-I'm an aspiring IT Infrastructure Specialist with 2.5 years of Computer Science studies and 6+ months of hands-on experience in IT Support and System Administration. 
+I'm an aspiring IT Infrastructure Specialist with 2.5 years of Computer Science studies and 8 months of hands-on experience in IT Support and System Administration.
 
-I’m focused on building a career in networking, systems administration, and cybersecurity, with a strong interest in infrastructure, troubleshooting, and automation. I currently work as a freelancer setting up secure server environments and as IT support for small companies that need tailored, practical solutions.
+I’m focused on building a career in networking, systems administration, and cybersecurity, with a strong interest in infrastructure, troubleshooting, and automation.
+
+I currently work as an IT Support Specialist, handling real-world troubleshooting and system maintenance, while also freelancing to deploy and manage secure server environments for small businesses.
 
 ## ⚙️ My expirience from my jobs
 
