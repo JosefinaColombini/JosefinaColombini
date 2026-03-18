@@ -5,7 +5,7 @@ I’m focused on building a career in networking, systems administration, and cy
 
 I currently work as an IT Support Specialist, handling real-world troubleshooting and system maintenance, while also freelancing to deploy and manage secure server environments for small businesses.
 
-## ⚙️ My expirience from my jobs
+## ⚙️ My experience
 
 • **IT Support & SysAdmin**  
 Providing technical support, troubleshooting hardware/software issues, and maintaining systems for real users in a professional environment.
