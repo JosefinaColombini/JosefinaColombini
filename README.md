@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Josefina
-I'm an aspiring IT Infrastructure Specialist with 2.5 years of Computer Science studies and 8 months of hands-on experience in IT Support and System Administration.
+I'm an aspiring IT Infrastructure Specialist with 2.5 years of Computer Science studies and 9 months of hands-on experience in IT Support and System Administration.
 
 I’m focused on building a career in networking, systems administration, and cybersecurity, with a strong interest in infrastructure, troubleshooting, and automation.
 
