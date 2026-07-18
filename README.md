@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Josefina
 I’m an IT Support Specialist with one year of hands-on experience supporting business and healthcare clients across Windows, software, networking, VoIP, user access, backups, and infrastructure.
 
-I’m currently building my career in IT infrastructure, networking, systems administration, and cybersecurity, supported by 2.5 years of Computer Science studies and ongoing training in IT Infrastructure Support.
+I’m currently building my career in IT infrastructure, networking, systems administration, and cybersecurity, supported by 2.5 years of Computer Science studies and ongoing techical degree in IT Infrastructure Support.
 
 Alongside my support role, I work on projects involving Linux servers, Docker, VPNs, automation, technical documentation, and AI-powered tools designed to improve internal workflows and reduce repetitive work.
 
